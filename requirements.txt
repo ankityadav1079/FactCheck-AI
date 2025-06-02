@@ -1,0 +1,9 @@
+gradio
+transformers
+newspaper3k
+pandas
+lxml_html_clean
+torch
+sentencepiece
+tokenizers
+tiktoken
